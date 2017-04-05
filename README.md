@@ -19,4 +19,5 @@
 - ヨコハマ・アートLOD: http://archive.yafjp.org/test/inspection.php
 - LODAC Museum: http://lod.ac/sparql#
 - 東日本大震災アーカイブ Fukushima: http://fukushima.archive-disasters.jp/sparqlendpoint/
-- 桜島の情報を含む鹿児島市の避難所http://linkdata.org/work/rdf1s3488i
+- 桜島の情報を含む鹿児島市の避難所: http://linkdata.org/work/rdf1s3488i
+- NHK Linked Data: https://www.nhk.or.jp/strl/ld/index.html
