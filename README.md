@@ -7,11 +7,12 @@
 # SPARQL Endpoints
 
 ## World-wide LOD
-- SPARQL endpoint on DBLP: http://dblp.l3s.de/d2r/snorql/
-- LOD for Conferences in Computer Science: http://lod.springer.com/wiki/bin/view/Linked+Open+Data/About
-- Europeana SPARQL endpoint: http://labs.europeana.eu/api/sparql-console
-- Endpoint for National Library of France: http://data.bnf.fr/sparql/
-- LinkedGeoData.org: http://linkedgeodata.org/OnlineAccess/SparqlEndpoints
+- [SPARQL endpoint on DBLP](http://dblp.l3s.de/d2r/snorql/)
+- [LOD for Conferences in Computer Science](http://lod.springer.com/wiki/bin/view/Linked+Open+Data/About)
+- [Europeana SPARQL endpoint](http://labs.europeana.eu/api/sparql-console)
+- [Endpoint for National Library of France](http://data.bnf.fr/sparql/)
+- [LinkedGeoData.org](http://linkedgeodata.org/OnlineAccess/SparqlEndpoints)
+
 
 ## Japanese LOD
 - 都道府県・市区町村コード: http://statdb.nstac.go.jp/lod/sparql
