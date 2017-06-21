@@ -2,7 +2,7 @@
 
 * Copyright (c) 2016 Takahiro Komamizu
 * License: MIT
-* Author homepage: (https://takacomaprofile.wordpress.com/)
+* [Author homepage](https://takacomaprofile.wordpress.com/)
 
 # SPARQL Endpoints
 
